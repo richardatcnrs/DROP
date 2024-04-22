@@ -1,4 +1,4 @@
-#usage: python pre_process.py < weighted_adjacency_matrix
+#usage: python pre_process.py weighted_adjacency_matrix
 import sys
 import networkx as nx
 G = nx.DiGraph()

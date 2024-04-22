@@ -1,4 +1,4 @@
-#usage: python DROP_fixstars.py < pre_processed_graph_weights_file 
+#usage: python DROP_fixstars.py pre_processed_graph_weights_file 
 from amplify import BinaryPoly, SymbolGenerator
 from amplify import BinaryQuadraticModel
 from amplify.client import FixstarsClient
