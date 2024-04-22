@@ -1,0 +1,10 @@
+Optimal cost = 39
+Optimal path = [0, 16, 8, 7, 3, 4, 14, 6, 15, 5, 1, 9, 12, 10, 13, 2, 11]
+Optimal cost = 39
+Optimal path = [0, 11, 5, 15, 14, 6, 3, 4, 7, 8, 16, 9, 12, 1, 10, 13, 2]
+Optimal cost = 39
+Optimal path = [0, 11, 2, 13, 12, 9, 1, 10, 14, 15, 6, 5, 4, 3, 16, 7, 8]
+Optimal cost = 39
+Optimal path = [0, 11, 15, 6, 5, 14, 4, 3, 16, 7, 8, 1, 10, 12, 9, 2, 13]
+Optimal cost = 39
+Optimal path = [0, 7, 8, 16, 4, 3, 15, 5, 6, 14, 12, 1, 9, 10, 13, 2, 11]

@@ -1,0 +1,15 @@
+execution time = 4983
+Optimal cost = 2085.0
+Optimal path = [0, 3, 12, 6, 7, 5, 16, 13, 14, 2, 10, 9, 1, 4, 8, 11, 15]
+execution time = 4967
+Optimal cost = 2085.0
+Optimal path = [0, 15, 11, 8, 4, 1, 9, 10, 2, 14, 13, 16, 5, 7, 6, 12, 3]
+execution time = 4908
+Optimal cost = 2085.0
+Optimal path = [0, 3, 12, 6, 7, 5, 16, 13, 14, 2, 10, 9, 1, 4, 8, 11, 15]
+execution time = 4959
+Optimal cost = 2085.0
+Optimal path = [0, 15, 11, 8, 4, 1, 9, 10, 2, 14, 13, 16, 5, 7, 6, 12, 3]
+execution time = 5050
+Optimal cost = 2085.0
+Optimal path = [0, 15, 11, 8, 4, 1, 9, 10, 2, 14, 13, 16, 5, 7, 6, 12, 3]
