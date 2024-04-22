@@ -1,4 +1,4 @@
-#usage: python DROP_dwave.py < pre_processed_graph_weights_file 
+#usage: python DROP_dwave.py pre_processed_graph_weights_file 
 import dimod
 import dwave_networkx as dnx
 import networkx as nx
