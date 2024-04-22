@@ -1,4 +1,4 @@
-#usage: python DROP_gurobi.py < pre_processed_graph_weights_file 
+#usage: python DROP_gurobi.py pre_processed_graph_weights_file 
 import sys
 import gurobipy as gb
 from itertools import groupby
